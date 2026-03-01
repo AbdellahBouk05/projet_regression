@@ -16,7 +16,7 @@ summary(model)
 # verification de l'existance d'une relation entre X,Y
 png("report/regression_plot.png")
 plot(X, Y,
-     main="Log-Log Regression: Tree Height vs Diameter",
+     main="Log-Log Regression: Tree Height vs Diameter by ABDEELAH BOUK",
      xlab="ln(D)",
      ylab="ln(H)",
      pch=19)
